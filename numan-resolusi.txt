@@ -1,0 +1,5 @@
+  # numan-resolusi
+Repository untuk menimpan rencana Numan kedepannya
+- Konsisten untuk belajar laravel 1 bulan pertama
+- Membuat pengelolaan belajar
+- Membuat project
