@@ -2,6 +2,9 @@
 Repository untuk menimpan rencana Numan kedepannya
 - Konsisten untuk belajar laravel 1 bulan pertama
 - Membuat pengelolaan belajar
-- Membuat project
+- Menggunakan Framework Javascript
+* Vue Js
+* React
 - tambah belajar php
+ *Laravel
 - Banyak belajar
