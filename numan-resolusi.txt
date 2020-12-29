@@ -2,6 +2,9 @@
 Repository untuk menimpan rencana Numan kedepannya
 - Konsisten untuk belajar laravel 1 bulan pertama
 - Membuat pengelolaan belajar
+ * Belajar Git dan Github
+ * Belajar My SQL dari  cmd
 - Membuat project
 - tambah belajar php
 - Banyak belajar
+- Ukur timbangan Ken
